@@ -14,12 +14,12 @@ h1 {
 
 h2 {
     font-size: 1.5em;
-    padding-bottom: 1em;
+    padding-bottom: 0em;
 }
 
 main { 
     display: grid;
-    grid-template-columns: 30% 70%;
+    grid-template-columns: 35% 65%;
     margin-top: 3em;
 }
 
